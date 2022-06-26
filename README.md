@@ -1,4 +1,8 @@
-# Breadth First Search
+## EX NO : 02
+## DATE : 28-04-2022
+# <p align="center">Breadth First Search</p>
+
+
 ## AIM
 
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
@@ -24,7 +28,7 @@ Pass the required location it will return the distance and destination.
 
 
 
-## <br/><br/><br/><br/><br/><br/><br/>ROUTE MAP
+## <br/><br/><br/><br/><br/>ROUTE MAP
 
 
 ![ai1](https://user-images.githubusercontent.com/75235789/166147843-ff5c2518-cadc-479d-9905-41f698f9b7c7.png)
